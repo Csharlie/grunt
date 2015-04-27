@@ -4,7 +4,7 @@
 ## Clone This Repo...
 
 ```shell
-git clone https://github.com/Csharlie/grunt.git
+git clone https://github.com/Csharlie/grunt-template.git
 ```
 
 ## and install grunt 
