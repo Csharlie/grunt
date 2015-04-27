@@ -1,4 +1,4 @@
-# grunt
+# grunt-template
 > These files required for grunt installation and basic settings
 
 ## Clone This Repo...
