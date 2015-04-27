@@ -1,2 +1,2 @@
 # grunt
-These two files required for installation and basic settings
+These files required for grunt installation and basic settings
